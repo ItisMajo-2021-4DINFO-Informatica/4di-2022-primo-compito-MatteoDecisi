@@ -1,4 +1,5 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub
+viva la figa-Matteo Decisi 
 
 ## 🤓 Course overview and learning outcomes 
 
